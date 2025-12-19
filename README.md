@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mike+Cedrick+Musico+Tisbe+%F0%9F%91%8B;IT+Student+%7C+Web+%26+Mobile+App+Developer;Learning+Flutter%2C+Web+Dev%2C+and+Databases" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mike+Cedrick+Musico+Tisbe+%F0%9F%91%8B;BSIT+Student+%7C+Web+%26+Mobile+App+Developer;Learning+Flutter%2C+Web+Dev%2C+and+Databases" alt="Typing SVG" />
 
 ---
 
@@ -107,11 +107,11 @@ My featured mobile project is a **Sports Car Identifier**, built with **Flutter*
 
 | Project | Description | Tech Stack | Repository |
 |:--------|:------------|:-----------|:-----------|
-| **IT120 Activities** | Programming activities and exercises for IT120 | `Python` | [View Repo](https://github.com/mynameismikeyy/Azumbrado_IT120_Act1) |
-| **IT108 Web Projects** | Web development activities and fundamentals | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/mynameismikeyy/Azumbrado_IT108) |
-| **IT108 Quiz Projects** | Quiz and practice projects for IT108 | `Web` | [View Repo](https://github.com/mynameismikeyy/Azumbrado_IT108_QUIZ) |
+| **IT120 Activities** | Activity 1 - Git and GitHub | `Python` | [View Repo](https://github.com/mynameismikeyy/Tisbe_IT120_Act1) |
+| **IT108 Web Projects** | Web development activities and fundamentals | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/mynameismikeyy/Tisbe_IT108) |
+| **IT108 Quiz Projects** | Quiz and practice projects for IT108 | `Web` | [View Repo](https://github.com/mynameismikeyy/Tisbe_IT108/tree/master/TISBE_QUIZ) |
 | **Flutter Widget Components** | Reusable Flutter UI components and widgets | `Flutter` `Dart` | [View Repo](https://github.com/mynameismikeyy/Flutter_Widget_UIComponents) |
-| **MySQL Trigger Projects** | MySQL trigger implementation and automation | `MySQL` `Database` | [View Repo](https://github.com/mynameismikeyy/mysql-trigger-implementation-azumbrado) |
+| **MySQL Trigger Projects** | MySQL trigger implementation and automation | `MySQL` `Database` | [View Repo](https://github.com/mynameismikeyy/Tisbe_IT108) |
 | **Final Project** | Academic final project using multiple technologies | `Multiple Technologies` | [View Repo](https://github.com/mynameismikeyy/Azumbrado_Esma_FinalProject) |
 
 </div>
