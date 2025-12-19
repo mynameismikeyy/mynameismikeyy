@@ -1,14 +1,7 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&color=0D6EFD&center=true&width=650&lines=Hi%2C+I'm+Mike+Cedrick+Musico+Tisbe+%F0%9F%91%8B&animation=typing" alt="Line 1" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&color=FD7E14&center=true&width=650&lines=BSIT+Student+at+CSUCC&animation=typing&delay=2500" alt="Line 2" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&color=DC3545&center=true&width=650&lines=Passionate+about+Software+Development&animation=typing&delay=5000" alt="Line 3" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&color=FFC107&center=true&width=650&lines=Exploring+Web+Apps%2C+Mobile+Apps+and+Databases&animation=typing&delay=7500" alt="Line 4" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&color=0DCAF0&center=true&width=650&lines=Ako+ang+pinaka+pogi+sa+buong+Mundo&animation=typing&delay=10000" alt="Line 5" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&color=198754&center=true&width=650&lines=Aspiring+Full-Stack+Developer+and+Tech+Enthusiast&animation=typing&delay=12500" alt="Line 6" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&color=6F42C1&center=true&width=650&lines=Natatapos+na+lang+ang+semester+wala+akung+natutunan&animation=typing&delay=15000" alt="Line 7" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&color=4ADE80&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mike+Cedrick+Musico+Tisbe+%F0%9F%91%8B;BSIT+Student+at+CSUCC;Passionate+about+Software+Development;Exploring+Web+Apps%2C+Mobile+Apps+and+Databases;Ako+ang+pinaka+pogi+sa+buong+Mundo;Aspiring+Full-Stack+Developer+and+Tech+Enthusiast" alt="Typing SVG" />
+
 
 
 
