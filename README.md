@@ -124,7 +124,7 @@ My featured mobile project is a **Sports Car Identifier**, built with **Flutter*
 | **Final Project** | Tisbe_Sports_Car_Classification_FinalProject | `Multiple Technologies` | [View Repo](https://github.com/mynameismikeyy/Tisbe_Sports_Car_Classification_FinalProject) |
 | **IT108 FINAL DEFENSE** | FINAL DEFENSE Farmer_Training_Certification_Registry | `MySQL` `Database` | [View Repo](https://github.com/mynameismikeyy/TISBE_HECHANOVA_IT108_FINAL_DEFENSE.git) |
 | **IT120 FINAL PROJECT** | APPLICATION SPORTS CAR | `MySQL` `Database` | [View Repo](https://github.com/mynameismikeyy/mynameismikeyy.git) |
-| **IT120 FINAL PROJECT** | Final Project | Presentation and Submission | `MySQL` `Database` | [View Link](https://youtu.be/hmmVFwtPgTg?si=hpv0o7NLGiMzUF0l) |
+| **IT120 FINAL PROJECT** | Final Project Presentation and Submission | `MySQL` `Database` | [View Link](https://youtu.be/hmmVFwtPgTg?si=hpv0o7NLGiMzUF0l) |
 
 
 </div>
