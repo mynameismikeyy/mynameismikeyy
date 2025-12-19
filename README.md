@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mike+Cedrick+Musico+Tisbe+%F0%9F%91%8B;BSIT+Student+%7C+Web+%26+Mobile+App+Developer;Learning+Flutter%2C+Web+Dev%2C+and+Databases" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=500&color=FF5733&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mike+Cedrick+Musico+Tisbe+%F0%9F%91%8B;BSIT+Student+%7C+Web+%26+Mobile+App+Developer;Learning+Flutter%2C+Web+Dev%2C+and+Databases&animation=fade" alt="Typing SVG" />
+
 
 ---
 
